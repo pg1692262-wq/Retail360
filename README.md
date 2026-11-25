@@ -1,6 +1,6 @@
 # Retail360
 Herramienta de análisis y visualización de datos comerciales desarrollada en Python para la toma de decisiones empresariales. Proyecto final ADMI-1301.
-# Retail360
+
 ### De los datos a las decisiones comerciales
 
 *Proyecto final — Visualización de Datos | ADMI-1301*
